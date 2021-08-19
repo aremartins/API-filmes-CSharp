@@ -14,3 +14,7 @@
 <li>Como gerar parâmetros de resposta em tempo de execução.
 <li>Como instalar e configurar o AutoMapper.
 <li>Como mapear recursos de maneira automatizada com o AutoMapper.
+  
+  <h3>Resultado das requisições</h3>
+  
+<img src="https://github.com/aremartins/API-filmes-CSharp/blob/main/Swagger%20UI.gif?raw=true">
